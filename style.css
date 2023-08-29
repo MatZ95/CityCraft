@@ -1,0 +1,21 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: Arial, sans-serif;
+  background-color: #f0f0f0;
+}
+
+#game-container {
+  width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: white;
+  border: 1px solid #ccc;
+}
+
+.building-item {
+  margin: 5px;
+  padding: 10px;
+  background-color: #f0f0f0;
+  border: 1px solid #ccc;
+}
